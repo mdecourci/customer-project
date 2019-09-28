@@ -1,0 +1,3 @@
+{"latitude": "53.359428", "user_id": 25, "name": "David Behan", "longitude": "-6.259664"}
+{"latitude": "80.761389", "user_id": 30, "name": "Nick Enright", "longitude": "-20.2875"}
+{"latitude": "53.349428", "user_id": 23, "name": "Eoin Gallagher", "longitude": "-6.258664"}
